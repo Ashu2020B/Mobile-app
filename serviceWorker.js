@@ -1,21 +1,21 @@
 var CACHE_NAME = 'awesome-quotes';
 var urlsToCache = [
-  './',
-  './style.css',
-  './index.html',
-  './quotes.html',
-  './life.html',
-  './love.html',
-  './inspiration.html',
-  './frame 5.png',
-  './frame 6.png',
-  './X - 3.png',
-  './X - 4.png',
-  './X - 10.png',
-  './X - 11.png',
-  './X - 7.png',
-  './X - 8.png',
-  './X - 9.png'
+  '/',
+  '/style.css',
+  '/index.html',
+  '/quotes.html',
+  '/life.html',
+  '/love.html',
+  '/inspiration.html',
+  '/frame 5.png',
+  '/frame 6.png',
+  '/X - 3.png',
+  '/X - 4.png',
+  '/X - 10.png',
+  '/X - 11.png',
+  '/X - 7.png',
+  '/X - 8.png',
+  '/X - 9.png'
 ];
 
 
